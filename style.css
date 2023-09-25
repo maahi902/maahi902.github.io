@@ -183,7 +183,7 @@ ul li a:hover {
     display: block;
   }
 
-ul {
+  ul {
     position: absolute;
     width: 100%;
     height: calc(100vh - 85px);
@@ -217,6 +217,7 @@ ul {
     margin: auto;
   }
 }
+
 /* Style for the "Portfolio" button */
 .portfolio a {
   background-color: var(--primary-color);
