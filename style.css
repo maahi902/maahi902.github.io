@@ -218,32 +218,3 @@ ul li a:hover {
   }
 }
 
-/* Style for the "Portfolio" button */
-.portfolio a {
-  background-color: var(--primary-color);
-  color: #ffffff;
-  text-decoration: none;
-  padding: 1rem 2rem;
-  border-radius: 10px;
-  display: inline-block;
-  transition: background-color 0.3s;
-}
-
-.portfolio a:hover {
-  background-color: var(--primary-color-dark);
-}
-
-/* Style for the "Hire Me" button */
-.hire__me a {
-  background-color: var(--secondary-color);
-  color: #ffffff;
-  text-decoration: none;
-  padding: 1rem 2rem;
-  border-radius: 10px;
-  display: inline-block;
-  transition: background-color 0.3s;
-}
-
-.hire__me a:hover {
-  background-color: var(--secondary-color-dark); /* You can define this color in your CSS */
-}
